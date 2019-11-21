@@ -1,0 +1,696 @@
+michelin_name,stars,michelin_id,city_id,region_id,cuisine_id,lat_long_id
+Kilian Stuba,1,0,0,0,0,0
+Impromptu by Paul Lee,1,371,64,20,33,1
+PRU,1,397,66,21,33,2
+Upstairs at Mikkeller,1,377,65,21,33,3
+Gaa,1,389,65,21,33,4
+Canvas,1,380,65,21,33,5
+Corner House,1,332,59,18,33,6
+Longtail,1,372,64,20,33,7
+Muoki,1,297,58,17,33,8
+Exquisine,1,293,58,17,33,9
+Mosu,1,301,58,17,33,10
+Soigné,1,303,58,17,33,11
+Zero Complex,1,305,58,17,33,12
+Bacchanalia,1,330,59,18,33,13
+Meta,1,339,59,18,33,14
+Dosa,1,294,58,17,33,15
+Nouri,1,335,59,18,33,16
+Labyrinth,1,318,59,18,33,17
+Takumi by Daisuke Mori,1,158,27,8,33,18
+A. Wong,1,529,148,23,14,19
+Mister Jiu's,1,35,5,1,14,20
+Bistro Na's,1,76,8,1,14,21
+Yu Yuan,1,299,58,17,14,22
+Jin Jin,1,306,58,17,14,23
+Hakkasan Mayfair,1,500,141,23,14,24
+Kai,1,498,141,23,14,25
+Hakkasan Hanway Place,1,504,140,23,14,26
+Café China,1,236,34,12,14,27
+Crystal Jade Golden Palace,1,322,59,18,14,28
+Imperial Treasure Fine Teochew Cuisine (Orchard),1,323,59,18,14,29
+La Dame de Pic,1,537,154,23,66,30
+Tate,1,179,27,8,33,31
+Arbor,1,166,28,8,33,32
+VEA,1,167,27,8,33,33
+Summer Palace,1,164,27,8,27,34
+Yauatcha Soho,1,511,142,23,14,35
+Man Wah,1,163,27,8,27,36
+Yee Tung Heen,1,153,27,8,27,37
+Tim's Kitchen,1,187,30,10,27,38
+Chef Kang's,1,310,59,18,27,39
+Summer Pavilion,1,312,59,18,27,40
+Lei Garden,1,315,59,18,27,41
+Ya Ge,1,363,64,20,27,42
+Da San Yuan,1,374,64,20,27,43
+Pearl Dragon,1,195,30,10,27,44
+Summer Palace,1,333,59,18,27,45
+Xin Rong Ji,1,161,27,8,35,46
+Kam's Roast Goose,1,159,27,8,34,47
+Yat Lok,1,169,27,8,34,48
+Zhejiang Heen,1,157,27,8,31,49
+Jardin de Jade (Wan Chai),1,156,27,8,31,50
+Yè Shanghai (Tsim Sha Tsui),1,154,27,8,31,51
+Jiang-Nan Chun,1,329,59,18,27,52
+Lai Heen,1,196,30,10,27,53
+Guo Fu Lou,1,170,27,8,27,54
+Celebrity Cuisine,1,171,27,8,27,55
+Loaf On,1,137,27,8,27,56
+Lei Garden (Kwun Tong),1,138,27,8,27,57
+Lei Garden (Mong Kok),1,140,27,8,27,58
+Ming Court,1,141,27,8,27,59
+Yat Tung Heen (Jordan),1,142,27,8,27,60
+Fu Ho (Tsim Sha Tsui),1,143,27,8,27,61
+Shang Palace,1,144,27,8,27,62
+Ah Yat Harbour View (Tsim Sha Tsui),1,146,27,8,27,63
+Spring Moon,1,148,27,8,27,64
+Imperial Treasure Fine Chinese Cuisine,1,149,27,8,27,65
+Ying,1,190,30,10,27,66
+King,1,189,30,10,27,67
+Wing Lei,1,188,30,10,27,68
+Zi Yat Heen,1,193,30,10,27,69
+Duddell's,1,174,27,8,27,70
+Pang's Kitchen,1,160,27,8,27,71
+Qi (Wan Chai),1,162,27,8,36,72
+Benares,1,503,141,23,7,73
+Veeraswamy,1,516,141,23,7,74
+Saneh Jaan,1,388,65,21,13,75
+Paste,1,384,65,21,13,76
+Bo.lan,1,381,65,21,13,77
+The Checkers,1,436,90,23,17,78
+Pétrus,1,515,143,23,17,79
+Chez Bruce,1,540,157,23,17,80
+Methavalai Sorndaeng,1,390,65,21,13,81
+Galvin La Chapelle,1,535,153,23,17,82
+Épure,1,152,28,8,17,83
+Belon,1,178,27,8,17,84
+The Ocean,1,180,27,8,17,85
+Bar Crenn,1,47,5,1,17,86
+Bouchon,1,54,5,1,17,87
+Olympe,1,274,46,15,17,88
+Club Gascon,1,528,150,23,17,89
+Nahm,1,392,65,21,13,90
+R-Haan,1,379,65,21,13,91
+Chim by Siam Wisdom,1,378,65,21,13,92
+Rose's Luxury,1,410,67,22,6,93
+Kinship,1,407,67,22,6,94
+The River Café,1,234,34,12,6,95
+Bâtard,1,212,34,12,6,96
+Bouley at Home,1,221,34,12,6,97
+Contra,1,238,34,12,6,98
+Gramercy Tavern,1,229,34,12,6,99
+The Clocktower,1,230,34,12,6,100
+Jordnær,1,114,22,5,22,101
+Kiin Kiin,1,116,22,5,13,102
+Kin Khao,1,32,5,1,13,103
+Uncle Boons,1,227,34,12,13,104
+Ruean Panya,1,396,65,21,13,105
+Le Du,1,395,65,21,13,106
+Suan Thip,1,376,65,21,13,107
+Café Boulud,1,248,34,12,17,108
+Gymkhana,1,513,141,23,7,109
+L'Amitié,1,298,58,17,17,110
+Le Grill de Joël Robuchon,1,205,34,12,17,111
+Dining Room at The Goring,1,525,148,23,62,112
+St John,1,526,149,23,62,113
+Nut Tree,1,472,120,23,62,114
+Hinds Head,1,480,127,23,62,115
+Céleste,1,512,143,23,65,116
+The Square,1,501,141,23,65,117
+Brat,1,533,151,23,62,118
+Amaya,1,514,143,23,7,119
+Quilon,1,527,148,23,7,120
+The Golden Peacock,1,192,30,10,7,121
+New Punjab Club,1,176,27,8,7,122
+Rasa,1,19,5,1,7,123
+The Song of India,1,314,59,18,7,124
+Junoon,1,224,34,12,7,125
+Trishna,1,490,137,23,7,126
+Gotham Bar and Grill,1,222,34,12,10,127
+The Dabney,1,405,67,22,10,128
+Blue Duck Tavern,1,398,67,22,10,129
+L'Appart,1,206,34,12,17,130
+Le Coucou,1,218,34,12,17,131
+Ma Cuisine,1,340,59,18,17,132
+Parachute,1,81,11,2,15,133
+Orsa & Winston,1,77,8,1,15,134
+Keiko à Nob Hill,1,38,5,1,15,135
+Tuome,1,244,34,12,15,136
+Band of Bohemia,1,85,11,2,21,137
+Dusek's (Board & Beer),1,90,11,2,21,138
+Sepia,1,94,11,2,10,139
+Birdsong,1,26,5,1,10,140
+State Bird Provisions,1,40,5,1,10,141
+Blue Hill,1,214,34,12,10,142
+Faro,1,258,34,12,10,143
+The Finch,1,257,34,12,10,144
+L'Ortolan,1,479,126,23,17,145
+Métier,1,406,67,22,6,146
+Tim Ho Wan (Sham Shui Po),1,139,27,8,28,147
+Sushi Tokami,1,150,27,8,30,148
+Auberge du Soleil,1,55,5,1,9,149
+The Progress,1,39,5,1,9,150
+Farmhouse Inn & Restaurant,1,56,5,1,9,151
+Harbor House,1,59,5,1,9,152
+Rustic Canyon,1,61,8,1,9,153
+Kali,1,71,8,1,9,154
+Spruce,1,48,5,1,9,155
+Le Comptoir,1,72,8,1,9,156
+Hill Street Tai Hwa Pork Noodle,1,308,59,18,48,157
+Liao Fan Hong Kong Soya Sauce Chicken Rice & Noodle,1,336,59,18,48,158
+Jay Fai,1,391,65,21,48,159
+Tangará Jean-Georges,1,285,54,16,42,160
+Evvai,1,281,50,16,42,161
+Oteque,1,276,47,15,42,162
+Kato,1,63,8,1,18,163
+Sorrel,1,45,5,1,9,164
+Lord Stanley,1,43,5,1,9,165
+Octavia,1,41,5,1,9,166
+Iggy's,1,327,59,18,37,167
+Grön,1,129,25,6,24,168
+Mourad,1,28,5,1,12,169
+Maum,1,20,4,1,8,170
+Hansikgonggan,1,291,58,17,8,171
+Lee Jong Kuk 104,1,290,58,17,8,172
+Bicena,1,300,58,17,8,173
+Poom,1,302,58,17,8,174
+Gotgan,1,307,58,17,8,175
+Jeju Noodle Bar,1,209,34,12,8,176
+Atomix,1,239,34,12,8,177
+Cote,1,220,34,12,8,178
+In Situ,1,27,5,1,11,179
+Al's Place,1,21,5,1,9,180
+Aster,1,22,5,1,9,181
+Lasai,1,275,47,15,42,182
+Table for Four,1,304,58,17,37,183
+Maní,1,280,50,16,44,184
+Rhubarb,1,338,59,18,45,185
+Saawaan,1,394,65,21,58,186
+Sra Bua by Kiin Kiin,1,382,65,21,58,187
+Sorn,1,386,65,21,59,188
+Plume,1,402,67,22,60,189
+Tian,1,9,3,0,5,190
+Nix,1,223,34,12,5,191
+Cheek by Jowl,1,334,59,18,50,192
+Balwoo Gongyang,1,296,58,17,47,193
+Crown,1,478,125,23,63,194
+The Ninth,1,497,140,23,64,195
+Carpe Diem,1,3,2,0,2,196
+Wallsé,1,208,34,12,39,197
+Braci,1,328,59,18,51,198
+Candlenut,1,341,59,18,53,199
+Joo Ok,1,295,58,17,46,200
+Whitegrass,1,316,59,18,50,201
+Ekstedt,1,351,61,19,54,202
+Tien Hsiang Lo,1,362,64,20,56,203
+Béni,1,321,59,18,45,204
+L'Atelier de Joël Robuchon,1,360,64,20,45,205
+Jaan,1,317,59,18,45,206
+Savelberg,1,387,65,21,45,207
+Elements,1,383,65,21,45,208
+J'AIME by Jean-Michel Lorain,1,393,65,21,45,209
+Dining in Space,1,292,58,17,45,210
+Stay,1,289,58,17,45,211
+Saint Pierre,1,324,59,18,45,212
+Mountain and Sea House,1,373,64,20,55,213
+Ming Fu,1,367,64,20,55,214
+Golden Formosa,1,358,64,20,55,215
+logy,1,366,64,20,57,216
+Da-Wan,1,364,64,20,52,217
+Burnt Ends,1,337,59,18,52,218
+Putien (Kitchener Road),1,309,59,18,49,219
+IM Teppanyaki & Wine,1,145,27,8,29,220
+MUME,1,370,64,20,37,221
+Arcane,1,173,27,8,37,222
+Wakuriya,1,17,5,1,4,223
+Hana re,1,79,9,1,4,224
+Shibumi,1,74,8,1,4,225
+Omakase,1,23,5,1,4,226
+jū-ni,1,37,5,1,4,227
+Kinjo,1,44,5,1,4,228
+Sushi Yoshizumi,1,18,5,1,4,229
+Hayato,1,75,8,1,4,230
+Kenzo,1,52,5,1,4,231
+Shin Sushi,1,60,8,1,4,232
+Nozawa Bar,1,65,8,1,4,233
+Shunji,1,66,8,1,4,234
+Mori Sushi,1,68,8,1,4,235
+Q Sushi,1,73,8,1,4,236
+Wako,1,49,5,1,4,237
+Hashiri,1,29,5,1,4,238
+Kaiseki Den by Saotome,1,177,27,8,4,239
+Aldea,1,219,34,12,25,240
+Shinji by Kanesaka,1,191,30,10,30,241
+Sabi Omakase,1,200,32,11,30,242
+Sushi Wadatsumi,1,172,27,8,30,243
+Shinji (Bras Basah Road),1,313,59,18,30,244
+Sushi Ryu,1,369,64,20,30,245
+Sushi Nomura,1,365,64,20,30,246
+Kitcho,1,361,64,20,30,247
+Ginza Sushi ichi,1,385,65,21,30,248
+Shinji (Tanglin Road),1,331,59,18,30,249
+Sushi Kimura,1,326,59,18,30,250
+Sushi Ichi,1,325,59,18,30,251
+Ho Hung Kee,1,155,27,8,32,252
+Botrini's,1,134,26,7,25,253
+Meadowsweet,1,253,34,12,25,254
+Komi,1,400,67,22,25,255
+Huto,1,288,57,16,4,256
+Alma,1,320,59,18,37,257
+Kan Suke,1,287,56,16,4,258
+Ryo Gastronomia,1,284,53,16,4,259
+Jewel Bako,1,233,34,12,4,260
+Sushi Nakazawa,1,210,34,12,4,261
+Kanoyama,1,237,34,12,4,262
+Kosaka,1,211,34,12,4,263
+Beefbar,1,175,27,8,19,264
+The Kitchen,1,186,30,10,19,265
+Bar Uchū,1,235,34,12,4,266
+CUT,1,64,8,1,19,267
+Danny's Steakhouse,1,359,64,20,19,268
+Cut,1,319,59,18,19,269
+Kontrast,1,202,33,11,38,270
+Aquavit,1,523,147,23,38,271
+Agern,1,242,34,12,38,272
+Mandarin Grill + Bar,1,168,27,8,37,273
+Peter Luger,1,255,34,12,19,274
+Okuda,1,207,34,12,4,275
+SHIKI,1,8,3,0,4,276
+Sushi Taro,1,401,67,22,4,277
+Kosushi,1,283,52,16,4,278
+Jun Sakamoto,1,279,49,16,4,279
+Hirohisa,1,213,34,12,4,280
+Kajitsu,1,241,34,12,4,281
+Kyo Ya,1,240,34,12,4,282
+Sushi Inoue,1,252,34,12,4,283
+Sushi Noz,1,251,34,12,4,284
+Satsuki,1,250,34,12,4,285
+Sushi Amane,1,247,34,12,4,286
+Sushi Yasuda,1,246,34,12,4,287
+Tempura Matsui,1,245,34,12,4,288
+Sushi Sho,1,349,61,19,4,289
+Ken An Ho,1,368,64,20,4,290
+Ichigo Ichie,1,266,40,14,4,291
+Noda,1,228,34,12,4,292
+Kinoshita,1,286,55,16,4,293
+Bresca,1,404,67,22,6,294
+Everest,1,96,11,2,17,295
+Caviar Russe,1,243,34,12,6,296
+The Whitebrook,1,450,101,23,41,297
+Carters of Moseley,1,447,97,23,41,298
+Morston Hall,1,473,121,23,41,299
+Walnut Tree,1,441,95,23,41,300
+Adam's,1,445,97,23,3,301
+Fischer's at Baslow Hall,1,438,92,23,3,302
+Olive Tree,1,467,115,23,3,303
+Lympstone Manor,1,468,116,23,3,304
+Siren by RW,1,403,67,22,26,305
+Tainan Tan Tsu Mien Seafood,1,375,64,20,26,306
+ZZ's Clam Bar,1,215,34,12,26,307
+Varoulko Seaside,1,135,26,7,26,308
+Rech,1,147,27,8,26,309
+Angler,1,532,152,23,26,310
+Outlaw's Fish Kitchen,1,446,98,23,26,311
+The Neptune,1,469,117,23,3,312
+Le Champignon Sauvage,1,456,107,23,3,313
+360º,1,103,16,3,3,314
+Kokkeriet,1,118,22,5,3,315
+formel B,1,117,22,5,3,316
+Relæ,1,115,22,5,3,317
+Søllerød Kro,1,113,22,5,3,318
+Ti Trin Ned,1,111,20,5,3,319
+Pipe and Glass,1,437,91,23,41,320
+Me‚Mu,1,110,19,5,3,321
+Thomas Carr @ The Olive Room,1,440,94,23,26,322
+Domestic,1,107,18,5,3,323
+Gastromé,1,106,18,5,3,324
+La Degustation Bohême Bourgeoise,1,105,17,4,3,325
+Tail Up Goat,1,399,67,22,6,326
+Field,1,104,17,4,3,327
+Substans,1,108,18,5,3,328
+Pelegrini,1,102,15,3,3,329
+wilks,1,459,110,23,41,330
+Pony & Trap,1,463,111,23,41,331
+The Coach,1,477,124,23,41,332
+Campagne,1,270,42,14,41,333
+Forest Side,1,421,75,23,41,334
+Northcote,1,426,80,23,41,335
+Star Inn at Harome,1,434,88,23,41,336
+OX,1,414,70,23,41,337
+Black Swan,1,432,86,23,41,338
+White Swan,1,429,83,23,41,339
+Elystan Street,1,520,146,23,41,340
+Ritz Restaurant,1,519,145,23,41,341
+Tim Allen's Flitch of Bacon,1,487,134,23,41,342
+La Trompette,1,486,133,23,41,343
+Winteringham Fields,1,439,93,23,3,344
+Paul Ainsworth at No.6,1,442,96,23,3,345
+Simpsons,1,443,97,23,3,346
+Purnell's,1,444,97,23,3,347
+John's House,1,449,100,23,3,348
+Bybrook,1,465,113,23,41,349
+Restaurant Hywel Jones by Lucknam Park,1,466,114,23,41,350
+Elephant,1,470,118,23,41,351
+Oxford Kitchen,1,471,119,23,41,352
+Salt,1,455,106,23,41,353
+Restaurant Tristan,1,542,159,23,41,354
+Bulrush,1,460,110,23,41,355
+Gravetye Manor,1,543,160,23,41,356
+West House,1,545,162,23,41,357
+Lyle's,1,534,151,23,41,358
+Leroy,1,531,151,23,41,359
+Sorrel,1,541,158,23,41,360
+Driftwood,1,452,103,23,3,361
+James Sommerin,1,451,102,23,3,362
+The Sportsman,1,544,161,23,41,363
+The Glasshouse,1,485,132,23,3,364
+Draga di Lovrana,1,100,13,3,3,365
+Alyn Williams at The Westbury,1,502,141,23,3,366
+Borkonyha Winekitchen,1,182,29,9,3,367
+Stand,1,183,29,9,3,368
+Babel,1,184,29,9,3,369
+Costes,1,185,29,9,3,370
+Marchal,1,120,22,5,3,371
+Coworth Park,1,483,130,23,3,372
+Seven Park Place,1,521,147,23,3,373
+HRiSHi,1,422,76,23,3,374
+The Cellar,1,420,74,23,3,375
+Number One,1,418,73,23,3,376
+Clou,1,119,22,5,3,377
+Galt,1,201,33,11,3,378
+Five Fields,1,524,146,23,3,379
+House of Tides,1,424,78,23,3,380
+Sosban & The Old Butchers,1,425,79,23,3,381
+Eipic,1,413,70,23,3,382
+Loch Bay,1,411,68,23,3,383
+Tudor Room,1,484,131,23,3,384
+Story,1,538,155,23,3,385
+Clock House,1,510,144,23,3,386
+Marcus,1,508,143,23,3,387
+The Clove Club,1,530,151,23,3,388
+Bohemia,1,548,164,23,3,389
+Costes Downtown,1,181,29,9,3,390
+Samphire,1,547,164,23,3,391
+City Social,1,536,154,23,3,392
+Trinity,1,539,156,23,3,393
+Yorke Arms,1,427,81,23,3,394
+Martin Wishart,1,417,72,23,3,395
+Simon Radley at Chester Grosvenor,1,433,87,23,3,396
+Kitchin,1,416,72,23,3,397
+Social Eating House,1,505,142,23,3,398
+aend,1,10,3,0,3,399
+FAGN,1,197,31,11,3,400
+Palace,1,132,25,6,3,401
+Galvin at Windows,1,506,141,23,3,402
+Portland,1,494,138,23,3,403
+Woodspeen,1,476,123,23,3,404
+Das Loft,1,5,3,0,3,405
+Edvard,1,4,3,0,3,406
+L'Ecrivain,1,269,41,14,3,407
+Chestnut,1,264,38,14,3,408
+Noel,1,101,14,3,3,409
+Gidleigh Park,1,457,108,23,3,410
+Fordwich Arms,1,546,163,23,3,411
+Mews,1,265,39,14,3,412
+Chapter One,1,267,41,14,3,413
+Koka,1,343,60,19,3,414
+Mathias Dahlgren-Matbaren,1,353,61,19,3,415
+Agrikultur,1,348,61,19,3,416
+SK Mat & Människor,1,345,60,19,3,417
+28+,1,344,60,19,3,418
+Ask,1,128,25,6,3,419
+Demo,1,130,25,6,3,420
+Olo,1,131,25,6,3,421
+Hytra,1,136,26,7,3,422
+108,1,123,22,5,3,423
+Alouette,1,125,22,5,3,424
+Ora,1,133,25,6,3,425
+Matt Worswick at The Latymer,1,482,129,23,3,426
+House,1,273,45,14,3,427
+Lady Helen,1,272,44,14,3,428
+Senses,1,259,35,13,3,429
+atelier Amaro,1,260,35,13,3,430
+Heron & Grey,1,271,43,14,3,431
+Greenhouse,1,268,41,14,3,432
+Black Rat,1,481,128,23,3,433
+Harwood Arms,1,495,139,23,41,434
+Hide,1,518,141,23,41,435
+Kitchen W8,1,489,136,23,3,436
+Temporis,1,87,11,2,6,437
+Schwa,1,86,11,2,6,438
+EL Ideas,1,84,11,2,6,439
+Elizabeth,1,83,11,2,6,440
+Goosefoot,1,82,11,2,6,441
+Blackbird,1,93,11,2,6,442
+North Pond,1,95,11,2,6,443
+Frederiksminde,1,126,23,5,0,444
+RE-NAA,1,199,32,11,0,445
+Ai Fiori,1,231,34,12,16,446
+Carbone,1,217,34,12,16,447
+Del Posto,1,204,34,12,16,448
+Credo,1,198,31,11,0,449
+Stud!o at The Standard,1,122,22,5,0,450
+21212,1,419,73,23,0,451
+Ikoyi,1,522,147,23,0,452
+Ynyshir,1,431,85,23,0,453
+Texture,1,493,137,23,0,454
+Pollen Street Social,1,499,141,23,0,455
+Pied à Terre,1,496,140,23,0,456
+Esszimmer,1,2,2,0,0,457
+Fiola,1,408,67,22,16,458
+Masseria,1,409,67,22,16,459
+Murano,1,507,141,23,16,460
+Babbo,1,216,34,12,16,461
+Entente,1,88,11,2,6,462
+Volt,1,350,61,19,0,463
+Kadeau Bornholm,1,127,24,5,0,464
+Elske,1,89,11,2,6,465
+Aloë,1,354,61,19,0,466
+PM & Vänner,1,355,62,19,0,467
+Bloom in the Park,1,356,63,19,0,468
+SAV,1,357,63,19,0,469
+Bhoga,1,342,60,19,0,470
+Pramerl & the Wolf,1,6,3,0,0,471
+La Toque,1,53,5,1,6,472
+Madcap,1,50,5,1,6,473
+Gary Danko,1,46,5,1,6,474
+Nico,1,36,5,1,6,475
+Luce,1,25,5,1,6,476
+Addison,1,80,10,1,6,477
+Commonwealth,1,24,5,1,6,478
+The Village Pub,1,15,5,1,6,479
+Plumed Horse,1,16,4,1,6,480
+Protégé,1,13,4,1,6,481
+Chez TJ,1,12,4,1,6,482
+Madera,1,14,5,1,6,483
+Sons & Daughters,1,34,5,1,6,484
+Michael Mina,1,33,5,1,6,485
+Aniar,1,261,36,14,0,486
+Rich Table,1,31,5,1,6,487
+Angler,1,30,5,1,6,488
+Boka,1,92,11,2,6,489
+Roister,1,91,11,2,6,490
+Loam,1,262,36,14,0,491
+Fraiche,1,428,82,23,0,492
+Garibaldi,1,311,59,18,16,493
+Cipriani,1,278,48,15,16,494
+The Cross at Kenilworth,1,453,104,23,1,495
+Mee,1,277,48,15,43,496
+The Dining Room,1,464,112,23,43,497
+Casa Mono,1,232,34,12,40,498
+Sabor,1,509,141,23,40,499
+Barrafina,1,517,142,23,40,500
+Paco Tapas,1,462,110,23,40,501
+Kong Hans Kælder,1,121,22,5,23,502
+Masons Arms,1,454,105,23,23,503
+Madrona Manor,1,58,5,1,6,504
+Claro,1,249,34,12,20,505
+Casa Enríque,1,254,34,12,20,506
+Oxomoco,1,256,34,12,20,507
+Taco María,1,78,9,1,20,508
+The Kitchen,1,57,7,1,6,509
+Dialogue,1,62,8,1,6,510
+Trois Mec,1,69,8,1,6,511
+Topolobampo,1,97,11,2,20,512
+Aubergine,1,51,6,1,6,513
+Maude,1,67,8,1,6,514
+Roganic,1,491,137,23,61,515
+Rogan & Co,1,423,77,23,61,516
+Peel's,1,448,99,23,61,517
+The Musket Room,1,226,34,12,6,518
+NoMad,1,225,34,12,6,519
+The Man Behind The Curtain,1,435,89,23,0,520
+Blackbird,1,475,123,23,1,521
+Hambleton Hall,1,458,109,23,1,522
+Braidwoods,1,412,69,23,1,523
+Picchi,1,282,51,16,16,524
+Osteria Mozza,1,70,8,1,16,525
+SPQR,1,42,5,1,16,526
+Era Ora,1,124,22,5,16,527
+8 1/2 Otto e Mezzo - Bombana,1,194,30,10,16,528
+Tosca,1,151,27,8,16,529
+Tin Lung Heen,2,580,27,8,27,529
+Octavium,1,165,27,8,16,530
+Locanda Locatelli,1,492,137,23,16,531
+River Café,1,488,135,23,16,532
+Monte,1,99,12,3,0,533
+Spiaggia,1,98,11,2,16,534
+Tyddyn Llan,1,430,84,23,1,535
+Slotskøkkenet,1,112,21,5,0,536
+Pfefferschiff,1,1,1,0,1,537
+Walter Bauer,1,7,3,0,1,538
+Frederikshøj,1,109,18,5,0,539
+Operakällaren,1,352,61,19,1,540
+Thörnströms Kök,1,346,60,19,1,541
+Casamia,1,461,110,23,0,542
+Wild Honey Inn,1,263,37,14,1,543
+Statholdergaarden,1,203,33,11,1,544
+Red Lion Freehouse,1,474,122,23,1,545
+The Peat Inn,1,415,71,23,1,546
+Le Ciel by Toni Mörwald,1,11,3,0,1,547
+Upper House,1,347,60,19,0,548
+Waku Ghin,2,619,59,18,68,549
+Jungsik,2,615,58,17,46,550
+Mingles,2,617,58,17,46,551
+Feng Wei Ju,2,591,30,10,67,552
+noma,2,575,22,5,0,553
+Aquavit,2,606,34,12,38,554
+Saison,2,559,5,1,9,555
+Gastrologik,2,625,61,19,0,556
+Oaxen Krog,2,626,61,19,0,557
+KOKS,2,572,165,5,0,558
+Restaurant Sat Bains,2,644,175,23,0,559
+L'Enclume,2,641,77,23,0,560
+D.O.M.,2,613,169,16,44,561
+Tuju,2,612,168,16,44,562
+Oro,2,611,167,15,44,563
+Greenhouse,2,657,141,23,0,564
+Daniel Berlin,2,628,171,19,0,565
+Steirereck im Stadtpark,2,554,3,0,0,566
+Le Normandie,2,637,65,21,45,567
+SENNS.Restaurant,2,549,2,0,0,568
+Kwonsooksoo,2,616,58,17,8,569
+Jungsik,2,597,34,12,8,570
+Mraz & Sohn,2,551,3,0,0,571
+Fäviken Magasinet,2,624,170,19,0,572
+Amber,2,588,27,8,45,573
+Écriture,2,586,27,8,45,574
+Sühring,2,635,65,21,37,575
+Pierre,2,584,27,8,45,576
+Vollmers,2,627,63,19,0,577
+Alain Ducasse at Morpheus,2,595,30,10,45,578
+Odette,2,620,59,18,45,579
+Aska,2,608,34,12,38,580
+Ikarus,2,550,2,0,0,581
+The Tasting Room,2,594,30,10,45,582
+The Guest House,2,633,64,20,69,583
+Patrick Guilbaud,2,610,41,14,66,584
+n/naka,2,567,8,1,6,585
+Sketch (The Lecture Room & Library),2,656,141,23,66,586
+CORE by Clare Smyth,2,650,178,23,41,587
+Moor Hall,2,643,174,23,41,588
+Raby Hunt,2,642,173,23,41,589
+Vespertine,2,568,8,1,6,590
+Coi,2,561,5,1,6,591
+Lazy Bear,2,558,5,1,6,592
+Hand and Flowers,2,648,124,23,41,593
+Baumé,2,555,4,1,6,594
+Ta Vie,2,587,27,8,33,595
+RAW,2,629,64,20,33,596
+Mezzaluna,2,636,65,21,33,597
+Alla Prima,2,618,58,17,33,598
+Gaggan,2,634,65,21,33,599
+Pineapple and Pearls,2,639,67,22,6,600
+Commis,2,556,5,1,6,601
+Shisen Hanten,2,622,59,18,14,602
+Californios,2,557,5,1,20,603
+Shoun RyuGin,2,630,64,20,68,604
+Acquerello,2,562,5,1,16,605
+Spondi,2,577,26,7,17,606
+Les Amis,2,623,59,18,17,607
+Claude Bosi at Bibendum,2,658,146,23,17,608
+Belmond Le Manoir aux Quat' Saisons,2,646,176,23,17,609
+Daniel,2,607,34,12,17,610
+Le Gavroche,2,651,141,23,17,611
+L'Atelier de Joël Robuchon,2,596,34,12,17,612
+Gabriel Kreuther,2,601,34,12,6,613
+Henne Kirkeby Kro,2,573,166,5,1,614
+Dinner by Heston Blumenthal,2,654,179,23,62,615
+Andrew Fairlie at Gleneagles,2,640,172,23,65,616
+Campton Place,2,560,5,1,7,617
+minibar,2,638,67,22,6,618
+Golden Flower,2,592,30,10,14,619
+Atera,2,598,34,12,6,620
+Taïrroir,2,631,64,20,33,621
+Marea,2,600,34,12,26,622
+Onyx,2,590,29,9,3,623
+Providence,2,566,8,1,26,624
+Konstantin Filippou,2,552,3,0,3,625
+Sushi Saito,2,583,27,8,30,626
+Shoukouwa,2,621,59,18,30,627
+Kojima,2,614,58,17,30,628
+Sushi Amamoto,2,632,64,20,30,629
+Midsummer House,2,647,177,23,3,630
+Somni,2,565,8,1,6,631
+Tenku RyuGin,2,581,27,8,4,632
+Mizumi (Macau),2,593,30,10,4,633
+Umu,2,655,141,23,4,634
+Ichimura at Uchū,2,602,34,12,4,635
+Sushi Ginza Onodera,2,603,34,12,4,636
+Sushi Ginza Onodera,2,564,8,1,4,637
+Urasawa,2,563,8,1,4,638
+Kashiwaya,2,589,27,8,4,639
+Ledbury,2,649,178,23,3,640
+Silvio Nickol Gourmet Restaurant,2,553,3,0,3,641
+Kitchen Table at Bubbledogs,2,652,140,23,3,642
+Restaurant Nathan Outlaw,2,645,98,23,26,643
+Forum,2,582,27,8,27,644
+The Modern,2,605,34,12,6,646
+Blanca,2,609,34,12,6,647
+Yan Toh Heen,2,579,27,8,27,648
+Hélène Darroze at The Connaught,2,653,141,23,3,649
+Ying Jee Club,2,585,27,8,27,650
+Sun Tung Lok,2,578,27,8,27,651
+Jean-Georges,2,599,34,12,6,652
+Ko,2,604,34,12,6,653
+Acadia,2,571,11,2,6,654
+Oriole,2,570,11,2,6,655
+Smyth,2,569,11,2,6,656
+a‚o‚c,2,574,22,5,3,657
+Kadeau Copenhagen,2,576,22,5,3,658
+Eleven Madison Park,3,683,34,12,6,659
+Chef's Table at Brooklyn Fare,3,684,34,12,6,660
+The French Laundry,3,664,5,1,6,661
+Manresa,3,660,4,1,6,662
+Quince,3,662,5,1,6,663
+Atelier Crenn,3,663,5,1,6,664
+Per Se,3,681,34,12,6,665
+The Restaurant at Meadowood,3,665,5,1,6,666
+Masa,3,680,34,12,4,667
+Alinea,3,667,11,2,6,668
+Sushi Shikon,3,675,27,8,30,669
+Frantzén,3,687,61,19,3,670
+Maaemo,3,679,33,11,3,671
+Lung King Heen,3,671,27,8,27,672
+Le Palais,3,688,64,20,27,673
+T'ang Court,3,669,27,8,27,674
+Gaon,3,686,58,17,8,675
+La Yeon,3,685,58,17,8,676
+Le Bernardin,3,682,34,12,26,677
+Bo Innovation,3,670,27,8,33,678
+Amador,3,659,3,0,0,679
+SingleThread,3,666,5,1,6,680
+Fat Duck,3,690,127,23,0,681
+Geranium,3,668,22,5,0,682
+The Araki,3,693,141,23,4,683
+The Eight,3,676,30,10,14,684
+Waterside Inn,3,691,127,23,23,685
+The Inn at Little Washington,3,689,67,22,10,686
+Caprice,3,672,27,8,17,687
+Alain Ducasse at The Dorchester,3,692,141,23,17,688
+Gordon Ramsay,3,694,146,23,17,689
+8½ Otto e Mezzo - Bombana,3,673,27,8,16,690
+Robuchon au Dôme,3,677,30,10,45,691
+L'Atelier de Joël Robuchon,3,674,27,8,45,692
+Benu,3,661,5,1,18,693
+Jade Dragon,3,678,30,10,27,694
