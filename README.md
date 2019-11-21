@@ -1,6 +1,6 @@
 # ETL_Project
 
-In this project we decided to extract, transform, and load restaurant data. We used APIs to extract data from Michelin and Yelp. 
+In this project we decided to extract, transform, and load restaurant data. We used APIs to extract data from Yelp. Our Michelin data was obtained from kaggle and came in the form of CSVs. 
 Then we created the Michelin_Yelp database. Our database schema included six tables. The Michelin table included data from Michelin 
 and the Business, City, Region, and Cuisine tables included data from Yelp. we will be cleaning and transforming the Michelin Star Data. 
 We obtained the Michelin data in three seperate csv's: one-star, two-stars, and three-stars. We combined all three Michelin
