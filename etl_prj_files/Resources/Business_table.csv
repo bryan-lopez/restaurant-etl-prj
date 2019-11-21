@@ -1,0 +1,293 @@
+,business_id,business_name,review_count,rating,lat_long_id
+0,_0l1tshBoezwNA2mjzCg9g,Restaurant Pfefferschiff,3,5.0,537
+1,YtOE9GCTtM1eo2NUKw7Exw,Carpe Diem,72,4.0,196
+2,uVg4UaqQ8g8CErRHp3jCtA,Edvard,5,5.0,406
+3,G5j-o0u8BbUNIREQCsASNQ,Pramerl and the Wolf,4,5.0,471
+4,QzHeZxG2-lisxHnPRRjXhQ,SHIKI,12,3.0,276
+5,Y0si6jM6k8OX-Zt4YY609w,Tian,29,4.5,190
+6,KF1Xy1T2ZPBhegaw3V24cw,aend,1,5.0,399
+7,AQG8enVJnGepbVow2Jp7SA,Chez TJ,687,4.0,482
+8,sW_zH7aCKlUU9Pf4_XYViQ,Protégé,224,4.5,481
+9,iqaFkTDMlHyZB8gEV-_tuQ,Madera,796,3.5,483
+10,Xk8Uh9jBgaaubiUBIIULZg,Wakuriya,492,4.5,223
+11,jTTaW5pgmE9iWz2FU-iU9g,Sushi Yoshizumi,259,4.5,229
+12,xRxqebiQobZqJIRtDxnZsA,AL's Place,755,4.0,180
+13,VXuaXEjpPo-snl_XUPHEOw,Aster,389,4.0,181
+14,WpcWACqlAodx5dbe5GJWZA,Omakase,451,4.5,226
+15,XVPiXV_TPivnr9szB5kc-A,Birdsong,214,4.5,140
+16,E-jaK7rK8nclJfIkeAHtsA,Hashiri,98,4.5,238
+17,p22TPx1EFZcuEzl2qhuzGA,Mister Jiu's,647,4.0,20
+18,6ZNlnA733Rv0I9Mq5_yO0A,Keiko à Nob Hill,411,4.5,135
+19,uEucSd4jwY_zb10AcEye_g,SPQR,1942,3.5,526
+20,bE_1J-17ut6t6bvNhkkxSw,Wako Japanese Restaurant,540,4.5,237
+21,Rpgbm8UN_7BGQev6XG7qHA,Aubergine,221,4.0,513
+22,M7gmOk8Ayf-stORW8QjgOQ,Bouchon,2911,4.0,87
+23,t6i0yl0NUjWk-aCM9xvfAw,Auberge du Soleil Restaurant,788,4.5,149
+24,ju7BEm9OPl2Ph3L0ZDuGnw,Shin Sushi,74,4.5,232
+25,mLkaGrGmwreX-yHIgMCvYQ,Rustic Canyon,1254,4.0,153
+26,2gg_3Rm3abLj30niqIkXuA,Nozawa Bar,215,4.5,233
+27,OpHC3mrACr17p4IfyDVAyw,Shunji Japanese Cuisine,317,4.0,234
+28,0vRsHjV66oUDcszA8EWq0w,Kali Restaurant,514,4.5,154
+29,JI5nDSILR7XPY5T7xTQ1VA,Le Comptoir,146,4.0,156
+30,rSxvppSRQYjNXpP6qknJ7g,Shibumi,324,3.5,225
+31,Kdfu2ZNUp7jKta9j2cZ2NA,Hayato,60,5.0,230
+32,6sqCRUQld4i8CV6MNmm4wQ,Addison,389,4.5,477
+33,rgaoVm01HFYC292weFuTXA,Goosefoot,289,4.5,441
+34,KPQTn3g1aawws-rp6A3hNg,Elizabeth Restaurant,188,4.0,440
+35,m8qrUdRl8TCqvW-L6uWVsA,EL ideas,321,4.5,439
+36,Q9uxInveq-RFvpF1jkO8wQ,Band of Bohemia,541,4.0,137
+37,kPt3MMzO1njXvxNiveygRA,Temporis,73,4.5,437
+38,nE5IGY8AVkeKtOzmuFfKqA,Entente,156,4.0,462
+39,k5qqAUpe2onzecwqTREhMA,Elske,175,4.0,465
+40,xF8ZBzcMGpBd6U5GAbb-hQ,Roister,677,4.0,490
+41,XKUZV9O2sRFLDIpAmwmG5g,Boka,1383,4.5,489
+42,bFxtGcL0W7ZNEj3NwTmM0A,Blackbird,1543,4.0,442
+43,C9zXJ484qD6K8o0ISOQI7w,North Pond,545,4.0,443
+44,xoS0iA36biZSXYE7y57D_g,Everest,370,4.0,295
+45,UsuuTuxeqeiUXSgOMnJJKg,Topolobampo,993,3.5,512
+46,HyN4tm23QmwV1xUsiFUrsg,Field Restaurant,67,4.5,327
+47,fdAAfEfDJ4xSvEffMCvRtw,La Degustation Bohême Bourgeoise,87,4.5,325
+48,-Yt_x7mizH8Dv-tclntdWQ,Substans,2,5.0,328
+49,QLNbrgCdz3iRQKNGvBnzmw,Dragsholm Slot Gourmet - Slotskøkkenet,9,4.0,536
+50,UdEl3IApQMPdqFeYi4yaTg,Søllerød Kro,8,4.5,318
+51,Qolgp9qwpsu4gbkhfb1tmA,Clou,11,4.0,377
+52,ueg4UPGLIQXjPeJL_2VDcw,Marchal,30,4.5,371
+53,RZvI8H_8upRtFmZDJvsIKA,108,63,3.5,423
+54,LkBEFkFAgzcwjyHnObh_Vg,Restaurant Alouette,2,5.0,424
+55,j4R71-RqJefqekqUQhn5pA,Ask,11,4.5,419
+56,9xdh3CBLr7DM31YwYQIlyw,Ravintola Grön,2,5.0,168
+57,yK5Z_-hvAf-nL0cj1_UaBg,Olo,9,4.5,421
+58,OjXiBTPDdsvByhvintrgcQ,Ora,3,5.0,425
+59,AlJqdQUauOuaKTTWNqylXQ,Ho Choi Seafood Restaurant,2,5.0,57
+60,10540KOwjB55TfK26p51SQ,Tim Ho Wan,218,4.0,147
+61,ALpvr7pSOz75MTZXw29ntg,Ming Court,17,4.0,59
+62,oaS7-mIIUKDz4d2R4gxzDg,Yat Tung Heen,4,5.0,60
+63,nuUe2w-P6Ci-KKTCqvzSkg,香宮,14,3.0,62
+64,3jeiFzNdeUdu_91mjbR7Tg,Spring Moon,7,4.0,64
+65,eRV8WwrLdhpI0jGtgF7tCA,Épure,7,3.5,83
+66,cEbMWDXefteleG-lM8IlVw,Crystal Jade La Mian Xiao Long Bao,30,4.0,51
+67,zzoGDKxvggAgeglQuatoBg,Ho Hung Kee,58,3.5,252
+68,WzbWEbH_gRXYllbH7PL6gg,Kam's Roast Goose,128,4.0,47
+69,F9xOnkR-6Zmxh-NfJhjNwg,Summer Palace,6,3.5,34
+70,RGZxZ1OMrN_qMJ_jg-feVw,Octavium,2,4.0,530
+71,T9v3h5b6bZKV1jfgLhsfaw,Vea Restaurant & Lounge,8,4.5,33
+72,SrLMCn-ir9hAzjeoX6_OIw,Mandarin Gill+Bar,7,4.5,273
+73,fOXPLBbIPJzu_quoE4iI0Q,New Punjab Club,10,5.0,122
+74,47g9YJASaUTnMA-GlG2_QQ,The Ocean,2,4.5,85
+75,uBRkhkTrBClnJymyVGhr6A,Tim's Kitchen,8,4.5,38
+76,_lab51sRIbGJhcK5OLOPNg,Yan Toh Heen,24,4.5,53
+77,v4to23InH20HizINbi-Rlw,Credo Restaurant & Bistro,1,4.0,449
+78,g0u2-s0FOEDBZNIMvvW-5A,Sabi Sushi,11,2.5,242
+79,ObQX6cSyRHFU0hGIqyXSBQ,Galt,2,4.5,378
+80,EhWj_gKBTUUTni7s-9OJ5A,Restaurant Kontrast,13,4.5,270
+81,N-rwVhnEtXg8yY_TlB_KZw,Del Posto,1414,4.0,448
+82,3J9hH7EJdBv7_TjaQQqsJQ,Le Grill de Joël Robuchon,35,4.0,111
+83,C6f_MQaRwIbJ8diailVaCA,L'Appart,97,5.0,130
+84,tV2IY8q92bOEwVC4McgPjw,Wallse,264,4.0,197
+85,xtxcAUvrD4dWHJd0cwvW1A,JeJu Noodle Bar,477,4.5,176
+86,zGAQqDu0Ak2khVYs9WdQxw,Sushi Nakazawa,1354,4.5,261
+87,yj4culC4vfNKWXdj5ZxJ4Q,Kosaka,153,4.5,263
+88,6t5xWjPLWAjJV3YFMX_oaw,Hirohisa,153,4.5,280
+89,4Objcs7HXSGuzpb0SOa-Jw,Blue Hill,992,4.5,142
+90,xymU2HPO_euz1Ss1AE9Fyw,ZZ's Clam Bar,100,4.5,307
+91,-hUvO0C0A-pGZdiSKvjoFw,Babbo,2386,4.0,461
+92,7_hGsGEkHrjgAiYVjrCFnw,Carbone,945,4.0,447
+93,28CNHYULci66pJAz-0_pOg,Cote,792,4.0,178
+94,sqbSuwMNFg76ys2yNpbgVg,Bouley at Home,113,4.0,97
+95,_gzXNKarTxagBp6_PkmQKw,Gotham Bar and Grill,1580,4.5,127
+96,DZE4ThXa7d0kSXnR3Hb-kg,Junoon,1429,3.5,125
+97,1z5Nu66M6W8mk5Ap4osZwA,The NoMad Restaurant,1452,4.0,519
+98,vscYK65F_MUH8WqACKSdog,The Musket Room,433,4.5,518
+99,m6bu1AGIIIM9GNn9_cjsmg,Uncle Boons,931,4.0,104
+100,IPhWpqIuAiEerKlLS82RpQ,noda,41,4.5,292
+101,vRqj40pRwz0OHHRVgOdgRg,The Clocktower,360,4.0,100
+102,bEXTA_Gwo2oVg4gnFd9fNA,Ai Fiori,1230,4.0,446
+103,8PhwiTru5teSaZ8C6hrIww,Casa Mono,1197,3.5,498
+104,OINi1A9bSUUN5vi7xgi3ZQ,Uchu,74,4.5,266
+105,ytABgZNWnFXQUjOYjh460A,Kyo Ya,450,4.5,282
+106,Vc7JEi0Hj6XYfSMFEUMKGg,Caviar Russe,125,4.5,296
+107,R7EGjHWw0tNheY6-ahH8fQ,Tuome,473,4.5,136
+108,ieXKc6S3WlEiVkyxgaF9Ig,Tempura Matsui,126,4.5,288
+109,7EaiwMVaNdQibSs0yYkE5Q,Sushi Yasuda,2096,4.0,287
+110,FXgSgiLg6xgOO8zrG51mzg,Claro,159,4.0,505
+111,h-nMOzi-_PEowyZk-q66BA,Satsuki,48,4.0,285
+112,ocnHpILS80DHL--34L8xpw,Sushi Noz,85,4.5,284
+113,5eXrMPB5GUM-sapL8T-znQ,Sushi Inoue,122,4.0,283
+114,dgaNriM1VdI2nGochhHE_g,Casa Enrique,1144,4.0,506
+115,4yPqqJDJOQX69gC66YUDkA,Peter Luger,5592,4.0,274
+116,HyiLSYD9Zppd3eAhNHp3ag,The Finch,200,4.0,144
+117,ZTGU_oefbOVvjy4XiZhyFg,Senses,9,4.5,429
+118,l7xLpM8iXhqGRX2U32yAIQ,Loam,20,4.5,491
+119,fh_7sRpzt3mKt-XiwU5tiQ,Wild Honey Inn,7,3.5,543
+120,m4CMQWzcJQyjT7hgiBbSfQ,Mews Restaurant,3,5.0,412
+121,_E7A9CQOQAcLKWHefx86nA,Ichigo Ichie,3,4.5,291
+122,XyF9C_G66fkPJ9pFDRy32A,The Greenhouse,50,4.5,432
+123,-9ZJR1LP8YElGQI8NziA-Q,Campagne,10,5.0,333
+124,5yoPIIpDYddn56FeRnjHNg,Lasai,14,4.0,182
+125,UAYdmU0Asim4aJronqYsKg,Oteque,1,5.0,162
+126,5jYl32Fmy_EgXiJfTr58PA,Mee,16,4.0,496
+127,q9UtghR4gXR2rdE8-UHysg,Cipriani,4,3.5,494
+128,eSMjtW2SWm1EJZ7G3yOtow,Jun Sakamoto,6,3.5,279
+129,eeR2XdSylf93NP6Prd4rGQ,Maní,51,4.5,184
+130,Al_aQkjE4bMFPNATcKMukg,Picchi,6,4.0,524
+131,7AMII1H1I-_Tc7gnKx5LnQ,Kosushi,3,3.5,278
+132,uiGMayWsVSdQ9qyuIncxiA,Tangará Jean-Georges,1,5.0,160
+133,APhefbkmsJmHeyr_zybvKg,Huto,6,4.5,256
+134,LGU24M1eGzb5tHYVobOobA,Pu Tien,13,4.0,219
+135,N6l1n8IhOC1W9xx5u4Ao8w,Chef Kang's,2,3.0,39
+136,cMZ7ZjrrnRxt2InvCxmNrA,Garibaldi Italian Restaurant & Bar,15,4.0,493
+137,awJGIQ6wke_so8-eXjQOQg,Summer Pavilion,13,4.0,40
+138,Rs94MowK7qrq5O96cILpgg,The Song of India,32,3.5,124
+139,Zb9xyN0bpCnK5WqNNtbRRw,Whitegrass,5,5.0,201
+140,t88UJ1i5c2HxbWQTV440mg,Jaan,29,4.0,206
+141,IkVQ5PE5InWw8K1YtOTCWQ,Labyrinth,12,4.0,17
+142,dVj4njdMtC1HJ4A6LKnoMg,Alma,7,4.0,257
+143,b1ytpJcakiLtlpGkvxal-Q,Crystal Jade Golden Palace,20,4.0,28
+144,AKRDfyLgV7Ub1RFyl7kRkQ,Imperial Treasure,10,4.0,29
+145,OOj4KhDYuXJrCDKva6ijNA,Saint Pierre,3,3.5,212
+146,Iouj4B_0gjjucwfkTmf_Ww,Sushi Ichi,5,5.0,251
+147,amywoQiPJoG0tSlw7QA0tw,Sushi Kimura Singapore,6,5.0,250
+148,rz8khUD2Amv1lBoIiwpEWw,Iggy's,20,3.5,167
+149,e0_FbcpGLeupokB_HTB0Mw,Braci,4,4.0,198
+150,yKoy9A8gr-kZR6UBslO9Mw,Jiang-Nan Chun,5,4.5,52
+151,ep1TuFOLy2wyvSq98yE_Kg,The Kitchen at Bacchanalia,4,5.0,13
+152,RXe-C0CXHM-6F2I4pl3nTw,Shinji By Kanesaka,5,4.0,249
+153,JG3Yw6z48y6Eyi0DnN19tQ,Corner House,27,4.5,6
+154,eE0D5C6B_bbb1NgaqlB5ZQ,Nouri,3,4.5,16
+155,vVqxGrqt5ALxQjJGnntpKQ,Burnt Ends,68,4.5,218
+156,LgCFgXhmPU5pT38BqlVC5Q,Meta Restaurant,9,4.0,14
+157,eCrnMk8-7not5ZjSfjQJ2g,Candlenut,29,3.5,199
+158,oKbD7Hz0dhqQnUHW1S5KsA,Bhoga,12,4.5,470
+159,VGueCHk_k_YoNWKnYlM3Xw,28+,9,4.5,418
+160,tzHOYADQNb-e6zzV6ZW0bw,Aloë,12,5.0,466
+161,s1Lth_pl3cQxr81l5lXzFg,Bloom In The Park,13,4.0,468
+162,6C7if2me1pfrjiKM3N9SBA,Meny,11,4.0,469
+163,NSNFEgMI0akN6bFbSSjidQ,Golden Formosa,14,4.5,215
+164,bCPs4eyvk9DyJcL5SqmazQ,Danny's Steakhouse,13,4.0,268
+165,wRY5YfnUkxRFm-b5ozpdXQ,明福台菜海鮮,7,4.5,214
+166,qtJwbD2XmaX8VMHzJNZPwg,Longtail,11,4.5,7
+167,zeTqaVpvssznHt_1IxChXQ,Blue Duck Tavern,2333,4.0,129
+168,-O-K5I_9TVQCbgH05x9MiA,Sushi Taro,1367,4.0,277
+169,qh1jNqe_LdFKDxOu04OEkQ,Plume,255,4.0,189
+170,mxUHDbc7lAzN5pTqoec1uw,Bresca,236,4.5,294
+171,36_x03xNnGZg1Q_KoNHq4g,Métier,52,4.5,146
+172,RqmAZa_Wg7iwJ7kt6K-dlQ,Kinship,394,4.5,94
+173,wUQNzrnG2J9Er8rfEP8Fkg,Fiola,741,4.0,458
+174,nn7O7-EVZlxLjZtK3r174A,Masseria,326,4.0,459
+175,a-5Jd4irVqkaxRs-AQ-HGw,Rose's Luxury,1916,4.5,93
+176,O6hLZLC_o8qm3XTQTKcduw,EIPIC,6,4.5,382
+177,zUyoGVxTEKmyUuvbyY8CpA,Peat Inn,3,3.5,546
+178,ZIQrmmK86wQXVowgLsjW5A,Paul Kitching 21212,22,4.5,451
+179,eN_9h4n3dlb20V0RmF5lNw,Forestside Country House Hotel,1,3.0,334
+180,J2I8yii6pRLQqSiWKZ2GKA,Rogan & Company,3,4.5,516
+181,cI3itOhKhvOJh-2szEbspQ,Northcote,8,4.0,335
+182,MZoRyoU6FMPuMbtD1S12ug,The White Swan,3,3.5,339
+183,wX0z9VTjBbn652bqzycIAQ,Tyddyn Llan,1,3.0,535
+184,rau3jrBqxFQNa1_eE6TCvw,The Black Swan,4,5.0,338
+185,D98jW1_AZ_5j1xLGrxnzdQ,The Checkers,1,5.0,78
+186,mCFymohyyhG9fFDsdpR-Ew,Winteringham Fields,6,5.0,344
+187,1Q8FMxE1eQv6yaSPtGP9AA,Thomas Carr @ The Olive Room,2,5.0,322
+188,DeNLy-wHucmLTHlsseh8HQ,The Walnut Tree,6,4.5,300
+189,uneVTh1lEmei78j0JQbXtg,Simpsons,13,4.5,346
+190,oh8Udm1leQoDKUPlLWKfew,Adam's,5,5.0,301
+191,wwpt3jn2TYIzeVO0qbb6fQ,Carters,5,3.5,298
+192,TScqKUXmFe2vKftw_Slg-w,John's House Restaurant,2,4.5,348
+193,I4GreQGkH1bqmlaLOjq0Xw,Driftwood,3,5.0,361
+194,Bt6uW9IeOTK_NEX4JFmMfA,Salt and Pepper,2,3.5,353
+195,c-pxgpRbNIz8AO741jU4eg,Gidleigh Park,5,5.0,410
+196,aO8c8XrCE8HBlUrUlakkRw,Wilks,2,5.0,330
+197,AKywu_Ebu0yqI2k66sXq4w,Pony & Trap,9,5.0,331
+198,HOQhVS2sStnBnYgZuxiVNw,The Dining Room,1,3.0,497
+199,hpqhMZ92BDnf_0NwQdiCzg,Bybrook Restaurant Manor House Hotel,3,4.5,349
+200,jwSrsXrhTMcTWS5OYiPRXw,The Bluebell,1,2.0,312
+201,_siP7YH2TJ0RnlSpbo6zBQ,Nut Tree Inn,3,5.0,114
+202,PgD-jU8s89skuihTwwJFEA,The Blackbird,1,4.0,521
+203,c6V7lLf_Ux31i8zarsMrgA,The Hinds Head,42,4.0,115
+204,u__7eWa52c4Vbp36I1Z_bQ,The Latymer,6,5.0,426
+205,DLrzXYzAIwyTMXtOv52M1Q,La Trompette,34,4.5,343
+206,_f4VU_D--cPFbS8cSp_xZA,The River Cafe,81,4.0,532
+207,q-OOWNDtWue-ALqtnL2iDQ,Trishna,95,4.5,126
+208,0kaNMxY8FtwnylSKQFGYWw,Roganic,1,5.0,515
+209,Orx87C7tgxPlYG4qNCC4MQ,Locanda Locatelli,55,4.0,531
+210,W_MsdJkinHKRqn5P4PkRUw,Texture,50,4.5,454
+211,LFQ0wdcx2Z1JqI27cfMxJg,Kai Mayfair,40,4.0,25
+212,FWe9KK0z-RZlZzrntk7Yow,Pollen Street Social,79,4.0,455
+213,GeqY69TrwGHHgKTsPwAyMw,Benares Restaurant & Bar,112,4.0,73
+214,h2cCoDNQOPd51HFwvuAGNg,Hakkasan,222,4.0,26
+215,IBGiXhPZsnHB0Uls03DiPA,Murano,41,4.0,460
+216,J14GGm_I6Y0zjIFPApaVWw,Sabor,11,4.5,499
+217,HML1DSciLbtg2htFmRWCFA,Petrus,109,4.5,79
+218,_upr9f-FQBBIymsOWW2hqA,Veeraswamy,177,4.0,74
+219,qvO0hYRegZI5bCEk1cNoOQ,Barrafina,33,4.0,500
+220,7XmKJcAcVdUx74sH7NFA_g,Hide,22,4.5,435
+221,LxECoshWJBApG0TEX3H_xg,Aquavit,17,4.0,271
+222,paHFttEUtX3NSgC_80a_Yw,The Five Fields,19,5.0,379
+223,iDneZRtqN6dimKmcNQjVZA,The Clove Club,101,4.5,388
+224,LJwFJkKX4BuRp3n2kVnvfQ,brat,6,4.5,118
+225,Dnj_Oxvs2zz3ct0JUGIK0w,Galvin La Chapelle,57,4.0,82
+226,rJ9CwRFjwxyofu1RCk33Xg,La Dame de Pic London,3,4.5,30
+227,cWY8GI2iu_kGIR8ytqPavQ,Restaurant Story,39,4.5,385
+228,5bcW9-zgd1ctHXr9s6_5cw,Restaurant Tristan,6,5.0,354
+229,GOQ_Lpja-fY2drnUvxrRaw,Gravetye Manor,3,5.0,356
+230,X9yn4_1yLMVUMX8mT8gBtw,West Bank Guest House,2,5.0,357
+231,u_e2GwFqJG3APllmvMgXnQ,Fordwich Arms,8,5.0,411
+232,xdLRLISoGOh2WYgkPvyHfg,Mraz & Sohn,15,5.0,571
+233,KQ7bYUBRpLHfrmS-giCydg,Konstantin Filippou,17,4.0,625
+234,_S0HbqVc-RE2EkQwystDFg,Baumé,335,3.5,594
+235,ES3L73Pwlw64P3CxXNvd4Q,Commis,997,4.5,601
+236,XGHTrreDK35ciuA8R6naNQ,Saison,476,4.0,555
+237,mDM7-ho67ePJXd5TodtCOg,Acquerello,1086,4.5,605
+238,LeeIwHvIXFejO_cK0c9fYw,Smyth,168,4.5,656
+239,ZGnxEJXlv8e41qhVLkfKtQ,Acadia,473,4.0,654
+240,NUb7WgJW_1bZXfvgBm2GpA,Restaurant Kadeau,12,5.0,658
+241,gavhMf2Sgql6SbPhPHKTMw,Sun Tung Lok Chinese Cuisine,5,3.5,651
+242,_lab51sRIbGJhcK5OLOPNg,Yan Toh Heen,24,4.5,648
+243,nbJ8rzTGsS-p8Ommp__LBA,Tenku Ryugin,11,4.5,632
+244,ncB-UgAftcXzwSD7hQmmug,Art Basel,8,4.0,644
+245,h-tlRL0inZUqsNNZ_hMc1g,Sushi Saito,1,5.0,626
+246,wLAYSfZjR715uJPZD3ASLg,Pierre,5,3.0,576
+247,05XqUJulvMTQVq5E0eNgYg,Ying Jee Club,1,5.0,650
+248,P3P8seWc47KcMwA_m2PCAg,Golden Hong Vietnam Cuisine,1,5.0,619
+249,q8imuNhGXFAex-W-aype2w,Watson's Wine,1,5.0,582
+250,rZIMlQ76I0mXL8uNii_wVg,Atera,253,4.5,620
+251,PBUIaPtgnhmdHE3KHglK-g,Jean-Georges,1866,4.5,652
+252,H_KyiRhwho8rdlw_R93_0Q,Marea,1988,4.0,622
+253,GticI2JB8Iw2ktRfLv6aRQ,Momofuku Ko,295,4.5,653
+254,_LJFf9YqpYxvExTvVxb7Rw,The Modern,979,4.5,646
+255,f7apP8A_0_KqcGQTK4V2TQ,Aquavit,720,4.0,554
+256,DZaN3bNWfwcm__sNw5bvDg,Daniel,1564,4.5,610
+257,UM3DuPsG6UKdmsC23O_Icw,Aska,97,4.5,580
+258,3RnhiblA2iN2JD7r5ZehBw,Tuju,21,4.0,562
+259,PPpwLkJ7N93GfyuVaY2jpQ,D.O.M.,81,4.5,561
+260,YL9NENDJeMAqxT8sI3_PZg,Waku Ghin,19,4.5,549
+261,4Dpbs9krTBbFQp5k4oRkBw,Odette,19,4.5,579
+262,vyGu1lYNefoX1WPAlyi0Ag,Shoukouwa,3,3.0,627
+263,Z4wVIV8OE-cgfHegzNfCEw,Shisen Hanten,9,4.5,602
+264,gzIseUFpWsuSOxQR7ZAJ0g,Les Amis,17,4.5,607
+265,h7gRPcXw82rO-YyIus8pZA,Gastrologik,29,4.5,556
+266,Xp3PS3FIBchHf1bg0sGm3g,Daniel Berlin Krog,5,5.0,565
+267,Khse7HbGj4bbBq7l7ZwhCA,The Guest House,12,3.5,583
+268,wrwNt5U1DQSaAWSDTEMxfQ,minibar by José Andrés,339,4.5,618
+269,M46ZaPlzxQNchtWDGTCckw,Pineapple & Pearls,355,4.5,600
+270,tDIHS60iR7WvHNKrE9KZ4Q,L'Enclume,17,4.5,560
+271,1FPNG7OMvDMmuhmdITC0fg,Restaurant Nathan Outlaw,1,4.0,643
+272,LSz_Ywxl68mAIxkMn-N8FA,Midsummer House,28,5.0,630
+273,M1gUkd17zi9ZYjBcSkSpIA,Le Gavroche,60,4.5,611
+274,d28OFF6NbzsRC8SKDF95Ig,Kitchen Table,34,4.5,642
+275,q1of6aL69W-i9E8lWvHKKg,Hélène Darroze,31,4.0,649
+276,meHB5zqhVKuOQ3gacMlzBg,Dinner by Heston Blumenthal,286,4.5,615
+277,sh2fym7x-sbwpMkF1lIdPA,Umu,39,4.0,634
+278,eKV3GGH9gU5h028CU839kQ,Bibendum,55,4.0,608
+279,zFxD8QinHt69Bs7M2mgB-Q,Quince,1464,4.0,663
+280,c3khi7kxBaA2ATUuMjtMZA,Atelier Crenn,711,4.5,664
+281,T20VEwi7AzKbY2TuVEt_ig,The French Laundry,2535,4.5,661
+282,E1tTNluMJj293QifiLLSmA,The Restaurant At Meadowood,521,4.0,666
+283,pbEiXam9YJL3neCYHGwLUA,Alinea,2143,4.5,668
+284,cqsR9BbU9RJUqEOMJI0FIw,8 1/2 Otto e Mezzo BOMBANA,36,4.0,690
+285,JirOVsJgQFvUiuHA9ayDiA,Sushi Shikon,11,4.5,669
+286,cEbMWDXefteleG-lM8IlVw,Crystal Jade La Mian Xiao Long Bao,30,4.0,694
+287,t7BIiUN0tFg33kySuuQ0aQ,Masa,322,4.0,667
+288,vRrVSB-LegwUwIxpkeRVtQ,Le Bernardin,2478,4.5,677
+289,diCW3Pj1PTVRSyol_d7cZw,Chef's Table at Brooklyn Fare,500,4.5,660
+290,qP8hUgGjveW57ETkJxTm5A,The Inn at Little Washington,446,4.5,686
+291,Zp_C3CD6jv2tJ1bLFpSJxA,Alain Ducasse at The Dorchester,89,4.0,688
